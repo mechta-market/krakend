@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OWNER: mechta-market
-      IMAGE: krakend:1.0
+      IMAGE: krakend:1.1
     steps:
       - uses: actions/checkout@v4
 
