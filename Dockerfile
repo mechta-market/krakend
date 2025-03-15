@@ -1,4 +1,4 @@
-FROM devopsfaith/krakend:2.7.2
+FROM devopsfaith/krakend:2.7.1
 
 RUN apk add --no-cache curl
 
