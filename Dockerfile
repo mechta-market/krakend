@@ -1,4 +1,4 @@
-FROM devopsfaith/krakend:2.12
+FROM krakend:2.12
 
 RUN apk add --no-cache tzdata curl
 
